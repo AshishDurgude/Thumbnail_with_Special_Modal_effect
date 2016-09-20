@@ -1,0 +1,34 @@
+
+
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #fff;
+	background: #000000;
+}
+
+a, .md-close {
+	outline: none;
+}
+
+
+
+.md-close {
+	border: 2px solid #fff;
+	padding: 0.6em 1.2em;
+	background:none ;
+	color: #fff;
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-size: 1em;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	cursor: pointer;
+	display: inline-block;
+	margin: 3px 2px;
+	
+}
+
+.md-close:hover {
+	background: none;
+	border: 2px solid #1aff1a;
+}
+
